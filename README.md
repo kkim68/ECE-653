@@ -1,7 +1,6 @@
 # Environment
 
 Environment        : Windows or *nix environment, with CUDA support 
-                     (Or, there is a Google Colab Version in "colab" folder, written in ipynb.)
 
 Python Version     : 3.9 
 
