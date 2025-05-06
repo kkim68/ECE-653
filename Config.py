@@ -1,4 +1,4 @@
-MY_ROBOFLOW_APIKEY = "23YGtOSSXc7Mi257n5dt"
+MY_ROBOFLOW_APIKEY = "Change This To Your Roblowflow API Key"
 
 """
 # T4
