@@ -6,10 +6,10 @@ Python Version     : 3.9
 
 Utilized Hardware  : Nvidia GTX 1060 or T4 or A100 
 
-Installed Packages :
-    torch, torchvision, ultralytics, robolow, numpy, pandas, matplotlib, pillow, tqdm
-    \$\> pip install ultralytics roboflow numpy pandas matplotlib pillow tqdm 
-    \$\> pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+Installed Packages : torch, torchvision, ultralytics, robolow, numpy, pandas, matplotlib, pillow, tqdm
+    
+    pip install ultralytics roboflow numpy pandas matplotlib pillow tqdm 
+    pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
     
     **INSTALL YOUR COMPATIBLE CUDA VERSION**
 
